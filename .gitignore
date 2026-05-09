@@ -1,0 +1,22 @@
+# Node / frontend dependencies
+node_modules/
+Frontend/node_modules/
+
+# Frontend build output
+dist/
+Frontend/dist/
+
+# Java / Maven build output
+target/
+*.class
+
+# Logs and local environment files
+*.log
+.env
+.env.local
+
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
